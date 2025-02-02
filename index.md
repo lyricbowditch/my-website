@@ -3,11 +3,13 @@ layout: default
 ---
 
 <nav>
-  <a href="/">About</a> |
-  <a href="/podcasts">Podcasts</a> |
-  <a href="/writing">Writing</a>
+  
+###  <a href="/">About</a> |
+###  <a href="/podcasts">Podcasts</a> |
+###  <a href="/writing">Writing</a>
 </nav>
-
+<br />
+<br />
 
 # About
 
