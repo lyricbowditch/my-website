@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<nav>
-  <a href="/">About</a> |
-  <a href="/podcasts">Podcasts</a> |
-  <a href="/writing">Writing</a>
-</nav>
-<br />
-
 # About
 
 Lyric Bowditch is a Brooklyn-based podcast producer and editor with a passion for bringing stories to life through audio. She produced both weekly conversation podcasts and multi-voice narrative shows at the Freakonomics Radio Network for four years, including developing a new series from start to finish. She also served as the Freakonomics Radio Network's video editor. 
