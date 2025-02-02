@@ -3,9 +3,9 @@ layout: default
 ---
 
 <nav>
-  <a href="/">Home</a> |
-  <a href="/about">About</a> |
-  <a href="/contact">Contact</a>
+  # <a href="/">About</a> |
+  # <a href="/podcasts">Podcasts</a> |
+  # <a href="/writing">Writing</a>
 </nav>
 
 # About
