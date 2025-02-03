@@ -40,15 +40,17 @@ title: Podcasts
   <img src="{{ "/assets/NSQ.jpg" | relative_url }}" alt="No Stupid Questions show art" width="150" height="150">
 </a>
 
-<b>Associate produced <a href="https://freakonomics.com/series/nsq/" target="_blank"><i>No Stupid Questions</i></a></b> — a weekly conversation podcast from the Freakonomics Radio Network about human behavior, co-hosted by best-selling psychologist Angela Duckworth and tech/sports exec Mike Maughan. Created complete first drafts of more than 110 episodes, pitched episode topics, created research packets to prep hosts for recordings, supervised recordings, reviewed mixes, drafted episode titles and descriptions, monitored listener mail, and put together weekly engagement reports.
+<b>Associate produced <a href="https://freakonomics.com/series/nsq/" target="_blank"><i>No Stupid Questions</i></a></b> — a weekly conversation podcast from the Freakonomics Radio Network about human behavior, co-hosted by best-selling psychologist Angela Duckworth and tech/sports exec Mike Maughan. Created complete first drafts of <b>more than 110 episodes</b>, pitched episode topics, created research packets to prep hosts for recordings, supervised recordings, reviewed mixes, drafted episode titles and descriptions, monitored listener mail, and put together weekly engagement reports.
 
 * * *
 
 <a href="https://freakonomics.com/series/people-i-mostly-admire/" target="_blank">
-  <img src="{{ "/assets/PIMA.jpg" | relative_url }}" alt="People I (Mostly) Admire show art" width="150" height="150">
+  <img src="{{ "/assets/PIMA.png" | relative_url }}" alt="People I (Mostly) Admire show art" width="150" height="150">
 </a>
 
-<b>Associate produced <a href="https://freakonomics.com/series/people-i-mostly-admire/" target="_blank"><i>People I (Mostly) Admire</i></a></b> — a bi-weekly interview podcast from the Freakonomics Radio Network hosted by economist and <i>Freakonomics</i> co-author Steve Levitt. Created complete first drafts of more than 40 episodes and fully producing <a href="https://freakonomics.com/podcast/how-to-breathe-better/" target="_blank">one episode</a>, pitching guests, created research packets to prep host for all interviews, supervised interviews, and reviewed mixes.
+<b>Associate produced <a href="https://freakonomics.com/series/people-i-mostly-admire/" target="_blank"><i>People I (Mostly) Admire</i></a></b> — a bi-weekly interview podcast from the Freakonomics Radio Network hosted by economist and <i>Freakonomics</i> co-author Steve Levitt. Created complete first drafts of <b>more than 40 episodes</b> and fully produced one episode, pitching guests, created research packets to prep host for all interviews, supervised interviews, and reviewed mixes.
+
+* Ep. 140 "<a href="https://freakonomics.com/podcast/how-to-breathe-better/" target="_blank">How to Breathe Better</a>"
 
 * * *
 
@@ -56,4 +58,4 @@ title: Podcasts
   <img src="{{ "/assets/On The Rise.jpg" | relative_url }}" alt="On The Rise show art" width="150" height="150">
 </a>
 
-<b>Produce <a hred="https://podcasts.apple.com/us/podcast/on-the-rise/id1573633667" target="_blank"><i>On the Rise</i></a></b> — an interview podcast from the Tennis Channel that features compelling stories and unique voices in women's college tennis.
+<b>Currently produce <a hred="https://podcasts.apple.com/us/podcast/on-the-rise/id1573633667" target="_blank"><i>On the Rise</i></a></b> — an interview podcast from the Tennis Channel that features compelling stories and unique voices in women's college tennis.
