@@ -29,39 +29,66 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i>. 
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
-  <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-    <img src="{{ "/assets/SSN.png" | relative_url }}"
-         alt="Scholars Strategy Network Logo" width="30%" style="border-radius: 8px;">
+  <a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">
+    <img src="{{ "/assets/document1.jpg" | relative_url }}"
+         alt="K-Pop article thumbnail" width="30%" style="border-radius: 8px;">
   </a>
   <h4>
-    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-      Economists Letter Helped Push for New Jersey Millionaires Tax
+    <a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">
+     BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop
     </a>
   </h4>
+  <p>
+    Dive into the cultural behemoth with this immersive account of an outsider’s journey.
+  </p>
+  <p>
+    <a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" 
+       target="_blank" style="text-decoration: none; color: #0073e6; font-weight: bold;">
+      Read more →
+    </a>
+  </p>
 </div>
 <br>
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
-  <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-    <img src="{{ "/assets/SSN.png" | relative_url }}"
-         alt="Scholars Strategy Network Logo" width="30%" style="border-radius: 8px;">
+  <a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">
+    <img src="{{ "/assets/document2.jpg" | relative_url }}"
+         alt="Watercolor Artists article thumbnail" width="30%" style="border-radius: 8px;">
   </a>
   <h4>
-    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-      Economists Letter Helped Push for New Jersey Millionaires Tax
+    <a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">
+      5 artists capturing the fluidity of human experience with watercolor
     </a>
   </h4>
+  <p>
+    Document celebrates World Watercolor Month with Tschabalala Self, Mats Gustafson, and more.
+  </p>
+  <p>
+    <a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" 
+       target="_blank" style="text-decoration: none; color: #0073e6; font-weight: bold;">
+      Read more →
+    </a>
+  </p>
 </div>
 <br>
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
-  <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-    <img src="{{ "/assets/SSN.png" | relative_url }}"
-         alt="Scholars Strategy Network Logo" width="30%" style="border-radius: 8px;">
+  <a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">
+    <img src="{{ "/assets/document3.jpg" | relative_url }}"
+         alt="Swimwear portfolio thumbnail" width="30%" style="border-radius: 8px;">
   </a>
   <h4>
-    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-      Economists Letter Helped Push for New Jersey Millionaires Tax
+    <a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">
+      Reviving rebellious swimwear at Rudi Gernreich, home of the thong bathing suit
     </a>
   </h4>
+   <p>
+    Photographer Annie Powers and stylist Jasmine Hassett celebrate the brand's relaunch with this fashion portfolio of new and archival pieces.
+  </p>
+  <p>
+    <a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" 
+       target="_blank" style="text-decoration: none; color: #0073e6; font-weight: bold;">
+      Read more →
+    </a>
+  </p>
 </div>
 <br>
 
