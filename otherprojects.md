@@ -11,8 +11,8 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 
 <div style="border: 1px solid #ddd; padding: 15px; max-width: 500px; border-radius: 8px;">
   <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-    <img src=/assets/SSN.png/ 
-         alt="Scholars.org Logo" width="20%" style="border-radius: 8px;">
+    <img src="{{ "/assets/SSN.png" | relative_url }}"
+         alt="Scholars Strategy Network Logo" width="20%" style="border-radius: 8px;">
   </a>
   <h3>
     <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
