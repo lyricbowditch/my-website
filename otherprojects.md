@@ -82,11 +82,21 @@ Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Docu
 
 As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Columbia Daily Spectator</i>. <b>As editor, she managed and closely mentored a staff of 30 investigative long-form writers and associate editors</b>; developed and ran an intensive, semester-long training program for 20 incoming <i>Eye</i> trainees; provided structural and sentence-level edits on a total of 36 articles (ranging from 1,500 to 4,000 words); and liaised with the other sections of <i>Spectator</i> to coordinate diverse media components. She also wrote eight long-form articles, including a 4,570-word cover story that sparked an official change in Barnard’s transfer credit acceptance policy for American Sign Language courses. 
 
-* "<a href="http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">Looking For Signs at CU</a>," by Lyric Bowditch (<i>The Eye</i>, 2017).
-<a href="http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">
-<img src="{{ "/assets/cusigns.gif" | relative_url }}"
-         alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-</a>
+<div style="border: 1px solid #ddd; padding: 10px; max-width: 500px; border-radius: 8px;">
+  <a href="http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">
+    <img src="{{ "/assets/cusigns.gif" | relative_url }}"
+         alt="ASL article thumbnail" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4 style="margin-bottom: 5px;">
+    <a href="http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">
+     Looking For Signs at CU
+    </a>
+  </h4>
+  <p style="font-size: 11px; margin-top: 5px; margin-bottom: 0;">
+    by Lyric Bowditch (<i>The Eye</i>, 2017).
+  </p>
+</div>
+<br>
 
 * * *
 
