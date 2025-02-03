@@ -11,12 +11,12 @@ title: Podcasts
 
 <b>Developed and co-produced <a href="https://freakonomics.com/series/off-leash/" target="_blank"><i>Off Leash</i></a></b> — a six-episode narrative series about the scruffy, curious, joyful world of dogs, hosted by canine cognition researcher and best-selling author Alexandra Horowitz. <i>Off Leash</i> was "highly recommended" by <a href="https://www.newyorker.com/goings-on-about-town/podcasts/off-leash-07-11-22" target="_blank"><i>The New Yorker</i></a> and included on the <a href="https://www.cbc.ca/radio/podcastplaylist/the-best-podcasts-of-2022-1.6680311#:~:text=Off%20Leash%C2%A0(Freakonomics)%C2%A0" target="_blank">CBC Radio</a> "best podcasts of 2022" list.
 
-1. "<a href="https://freakonomics.com/podcast/smell/" target="_blank">Smell</a>"
-2. "<a href="https://freakonomics.com/podcast/names/" target="_blank">Names</a>"
-3. "<a href="https://freakonomics.com/podcast/property/" target="_blank">Property</a>"
-4. "<a href="https://freakonomics.com/podcast/heroes/" target="_blank">Heroes</a>"
-5. "<a href="https://freakonomics.com/podcast/strays/" target="_blank">Strays</a>"
-6. "<a href="https://freakonomics.com/podcast/genes/" target="_blank">Genes</a>"
+* Ep. 1: "<a href="https://freakonomics.com/podcast/smell/" target="_blank">Smell</a>"
+* Ep. 2: "<a href="https://freakonomics.com/podcast/names/" target="_blank">Names</a>"
+* Ep. 3: "<a href="https://freakonomics.com/podcast/property/" target="_blank">Property</a>"
+* Ep. 4: "<a href="https://freakonomics.com/podcast/heroes/" target="_blank">Heroes</a>"
+* Ep. 5: "<a href="https://freakonomics.com/podcast/strays/" target="_blank">Strays</a>"
+* Ep. 6: "<a href="https://freakonomics.com/podcast/genes/" target="_blank">Genes</a>"
 
 * * *
 
