@@ -11,3 +11,5 @@ Previously, Lyric produced both weekly conversation podcasts and multi-voice nar
 Lyric is voraciously curious and has produced stories on topics ranging from healthcare economics to canine cognition to behavioral science to women’s college tennis. <b>She is experienced in both creative and technical aspects of podcast production</b> — including ideation and development, booking and interviewing guests, prepping and managing hosts, sourcing archival tape, field recording, liaising with studios and tape syncs, scripting episodes, fact-checking, assembling mixes, and editing at all stages.
 
 Originally from Baltimore, Lyric grew up in Cairo, Egypt (2006-2016). She earned a B.A. in English/French comparative literature and a minor in computer science from Barnard College in New York City, where she served as editor of the Columbia Daily Spectator’s long-form magazine <i>The Eye</i>. When she’s not producing podcasts, there’s a good chance Lyric is listening to one while cooking, gardening, or training for her next marathon. 
+
+* * *
