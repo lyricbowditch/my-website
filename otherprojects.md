@@ -28,15 +28,15 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 
 Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i>. 
 
+* "<a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/">BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
 <img src="{{ "/assets/document1.jpg" | relative_url }}"
          alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-* "<a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/">BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
+* "<a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/">5 artists capturing the fluidity of human experience with watercolor</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
 <img src="{{ "/assets/document2.jpg" | relative_url }}"
          alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-* "<a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/">5 artists capturing the fluidity of human experience with watercolor</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
+* "<a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/">Reviving rebellious swimwear at Rudi Gernreich, home of the thong bathing suit</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
 <img src="{{ "/assets/document3.jpg" | relative_url }}"
          alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-* "<a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/">Reviving rebellious swimwear at Rudi Gernreich, home of the thong bathing suit</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
 
 * * *
 
@@ -53,3 +53,11 @@ As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Col
 
 Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a variety of artistic media. She created original collage artwork for his 2024 album <i>Brick Hill</i>, on which she wrote lyrics and recorded vocals for the track “It Was a Thursday.” Previously, she designed Jupie merch and directed/edited the music video for the track “Yams” off his 2019 EP <i>Deep in the Seat</i>.
 
+<div style="max-width: 500px; margin: auto;">
+  <iframe style="border-radius:12px" 
+      src="https://open.spotify.com/embed/album/7zsR6O8S3HQVXqkgKbK4fi?utm_source=generator" 
+      width="100%" height="380" 
+      frameborder="0" allowfullscreen="" 
+      allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+  </iframe>
+</div>
