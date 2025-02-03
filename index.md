@@ -12,4 +12,4 @@ Lyric is voraciously curious and has produced stories on topics ranging from hea
 
 Originally from Baltimore, Lyric grew up in Cairo, Egypt (2006-2016). She earned a B.A. in English/French comparative literature and a minor in computer science from Barnard College in New York City, where she served as editor of the Columbia Daily Spectator’s long-form magazine <i>The Eye</i>. When she’s not producing podcasts, there’s a good chance Lyric is listening to one while cooking, gardening, or training for her next marathon. 
 
-Get in tocuh at lyricbowditch[at]gmail[dot]com or connect on <a href="https://www.linkedin.com/in/lyric-bowditch-6b964a161/">LinkedIn</a>.
+Get in touch at lyricbowditch[at]gmail[dot]com or connect on <a href="https://www.linkedin.com/in/lyric-bowditch-6b964a161/">LinkedIn</a>.
