@@ -28,21 +28,21 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 
 Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i>. 
 
-* "<a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
 <a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">
 <img src="{{ "/assets/document1.jpg" | relative_url }}"
          alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-</a>  
-* "<a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">5 artists capturing the fluidity of human experience with watercolor</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
+</a> 
+* "<a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019). <br>
 <a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">
 <img src="{{ "/assets/document2.jpg" | relative_url }}"
          alt="Article thumbnail" width="30%" style="border-radius: 8px;">
 </a>
-* "<a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">Reviving rebellious swimwear at Rudi Gernreich, home of the thong bathing suit</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
+* "<a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">5 artists capturing the fluidity of human experience with watercolor</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019). <br>
 <a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">
 <img src="{{ "/assets/document3.jpg" | relative_url }}"
          alt="Article thumbnail" width="30%" style="border-radius: 8px;">
 </a>
+* "<a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">Reviving rebellious swimwear at Rudi Gernreich, home of the thong bathing suit</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
 
 * * *
 
@@ -70,7 +70,7 @@ Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a var
 <div style="max-width: 500px; margin: auto;">
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6TceYsmk5EL8q2uDpmr7e7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
-
+<p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
    <iframe width="560" height="315" 
       src="https://www.youtube.com/embed/F95XdqMv43Q?si=q9I2XcwixmAvbyil" 
@@ -78,3 +78,4 @@ Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a var
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
   </iframe>
 </div>
+</p>
