@@ -70,7 +70,11 @@ Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a var
 <div style="max-width: 500px; margin: auto;">
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6TceYsmk5EL8q2uDpmr7e7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
-
+<br>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/F95XdqMv43Q?si=q9I2XcwixmAvbyil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="560" height="315" 
+      src="https://www.youtube.com/embed/F95XdqMv43Q?si=q9I2XcwixmAvbyil" 
+      frameborder="0" allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
 </div>
