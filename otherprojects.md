@@ -69,5 +69,5 @@ As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Col
 Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a variety of artistic media. She created original collage artwork for his 2024 album <i>Brick Hill</i>, on which she wrote lyrics and recorded vocals for the track “It Was a Thursday.” Previously, she designed Jupie merch and directed/edited the music video for the track “Yams” off his 2019 EP <i>Deep in the Seat</i>.
 
 <div style="max-width: 500px; margin: auto;">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6TceYsmk5EL8q2uDpmr7e7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6TceYsmk5EL8q2uDpmr7e7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
