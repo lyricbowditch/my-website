@@ -19,14 +19,7 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
       Economists Letter Helped Push for New Jersey Millionaires Tax
     </a>
   </h4>
-  <p>
-    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" 
-       target="_blank">
-      Read more →
-    </a>
-  </p>
 </div>
-
 <br>
 
 * * *
@@ -34,6 +27,43 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 ## <i>Document Journal</i>
 
 Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i>. 
+
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
+    <img src="{{ "/assets/SSN.png" | relative_url }}"
+         alt="Scholars Strategy Network Logo" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
+      Economists Letter Helped Push for New Jersey Millionaires Tax
+    </a>
+  </h4>
+</div>
+<br>
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
+    <img src="{{ "/assets/SSN.png" | relative_url }}"
+         alt="Scholars Strategy Network Logo" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
+      Economists Letter Helped Push for New Jersey Millionaires Tax
+    </a>
+  </h4>
+</div>
+<br>
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
+    <img src="{{ "/assets/SSN.png" | relative_url }}"
+         alt="Scholars Strategy Network Logo" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
+      Economists Letter Helped Push for New Jersey Millionaires Tax
+    </a>
+  </h4>
+</div>
+<br>
 
 * "<a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/">BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
 * "<a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/">5 artists capturing the fluidity of human experience with watercolor</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
@@ -51,4 +81,6 @@ As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Col
 * * *
 
 ## Collaboration with Jupie
+
+Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a variety of artistic media. She created original collage artwork for his 2024 album <i>Brick Hill</i>, on which she wrote lyrics and recorded vocals for the track “It Was a Thursday.” Previously, she designed Jupie merch and directed/edited the music video for the track “Yams” off his 2019 EP <i>Deep in the Seat</i>.
 
