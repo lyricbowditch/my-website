@@ -28,21 +28,49 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 
 Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i>. 
 
-<a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">
-<img src="{{ "/assets/document1.jpg" | relative_url }}"
-         alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-</a> 
-* "<a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019). <br>
-<a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">
-<img src="{{ "/assets/document2.jpg" | relative_url }}"
-         alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-</a>
-* "<a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">5 artists capturing the fluidity of human experience with watercolor</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019). <br>
-<a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">
-<img src="{{ "/assets/document3.jpg" | relative_url }}"
-         alt="Article thumbnail" width="30%" style="border-radius: 8px;">
-</a>
-* "<a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">Reviving rebellious swimwear at Rudi Gernreich, home of the thong bathing suit</a>," by Lyric Bowditch (<i>Document Journal</i>, 2019).
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">
+    <img src="{{ "/assets/document1.jpg" | relative_url }}"
+         alt="K-Pop article thumbnail" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://www.documentjournal.com/2019/08/bts-blackpink-and-jackson-pollock-the-novices-guide-to-k-pop/" target="_blank">
+     BTS, BLACKPINK, and…Jackson Pollock? The novice’s guide to K-Pop
+    </a>
+  </h4>
+  <p style="font-size: 10px;">
+    by Lyric Bowditch (<i>Document Journal</i>, 2019).
+  </p>
+</div>
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">
+    <img src="{{ "/assets/document2.jpg" | relative_url }}"
+         alt="Watercolor Artists article thumbnail" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://www.documentjournal.com/2019/07/five-artists-use-watercolor-to-capture-the-fluidity-of-the-human-form-tschabalala-self-mats-gustafson/" target="_blank">
+      5 artists capturing the fluidity of human experience with watercolor
+    </a>
+  </h4>
+ <p style="font-size: 10px;">
+    by Lyric Bowditch (<i>Document Journal</i>, 2019).
+  </p>
+</div>
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">
+    <img src="{{ "/assets/document3.jpg" | relative_url }}"
+         alt="Swimwear portfolio thumbnail" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://www.documentjournal.com/2019/08/reviving-rebellious-swimwear-at-rudi-gernreich-home-of-the-thong-bathing-suit/" target="_blank">
+      Reviving rebellious swimwear at Rudi Gernreich, home of the thong bathing suit
+    </a>
+  </h4>
+  <p style="font-size: 10px;">
+    by Lyric Bowditch (<i>Document Journal</i>, 2019).
+  </p>
+</div>
+<br>
 
 * * *
 
