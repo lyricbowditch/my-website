@@ -12,21 +12,16 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 <div style="border: 1px solid #ddd; padding: 15px; max-width: 500px; border-radius: 8px;">
   <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
     <img src="{{ "/assets/SSN.png" | relative_url }}"
-         alt="Scholars Strategy Network Logo" width="20%" style="border-radius: 8px;">
+         alt="Scholars Strategy Network Logo" width="40%" style="border-radius: 8px;">
   </a>
   <h3>
     <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
       Economists Letter Helped Push for New Jersey Millionaires Tax
     </a>
   </h3>
-  <p>
-    <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" 
-       target="_blank" style="text-decoration: none; color: #0073e6; font-weight: bold;">
-      Read more →
-    </a>
-  </p>
 </div>
 
+<br>
 
 * * *
 
