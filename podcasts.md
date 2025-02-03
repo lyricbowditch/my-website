@@ -6,7 +6,7 @@ title: Podcasts
 # Podcasts 
 
 <a href="https://freakonomics.com/series/off-leash/" target="_blank">
-  <img src="{{ "/assets/OffLeash.jpg" | relative_url }}" alt="Off Leash show art" width="200" height="200">
+  <img src="{{ "/assets/offleash.jpg" | relative_url }}" alt="Off Leash show art" width="200" height="200">
 </a>
 
 <b>Developed and co-produced <a href="https://freakonomics.com/series/off-leash/" target="_blank"><i>Off Leash</i></a></b> — a six-episode narrative series about the scruffy, curious, joyful world of dogs, hosted by canine cognition researcher and best-selling author Alexandra Horowitz. <i>Off Leash</i> was "highly recommended" by <a href="https://www.newyorker.com/goings-on-about-town/podcasts/off-leash-07-11-22" target="_blank"><i>The New Yorker</i></a> and included on the <a href="https://www.cbc.ca/radio/podcastplaylist/the-best-podcasts-of-2022-1.6680311#:~:text=Off%20Leash%C2%A0(Freakonomics)%C2%A0" target="_blank">CBC Radio</a> "best podcasts of 2022" list.
