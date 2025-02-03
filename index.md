@@ -4,7 +4,9 @@ layout: default
 
 # About
 
-<b>Lyric Bowditch is an independent podcast producer and editor</b> based in Brooklyn, NY. She is currently the producer of <i>On The Rise Podcast</i>. Previously, Lyric produced both weekly conversation podcasts and multi-voice narrative shows at the Freakonomics Radio Network for four years, including developing the limited series <i>Off Leash</i> — which was "highly recommended" by <i>The New Yorker</i> and included on CBC Radio's "best podcasts of 2022" list. She also served as the Freakonomics Radio Network's video editor. 
+<b>Lyric Bowditch is an independent podcast producer and editor</b> based in Brooklyn, NY. She is currently the producer of <i>On The Rise Podcast</i>. 
+
+Previously, Lyric produced both weekly conversation podcasts and multi-voice narrative shows at the Freakonomics Radio Network for four years, including developing the limited series <i>Off Leash</i> — which was "highly recommended" by <i>The New Yorker</i> and included on CBC Radio's "best podcasts of 2022" list. She also served as the Freakonomics Radio Network's video editor. 
 
 Lyric is voraciously curious and has produced stories on topics ranging from healthcare economics to canine cognition to behavioral science to women’s college tennis. <b>She is experienced in both creative and technical aspects of podcast production</b> — including ideation and development, booking and interviewing guests, prepping and managing hosts, sourcing archival tape, field recording, liaising with studios and tape syncs, scripting episodes, fact-checking, assembling mixes, and editing at all stages.
 
