@@ -7,7 +7,7 @@ title: Other Projects
 
 ## New Jersey Millionaires Tax
 
-As a National Fellow at the Scholars Strategy Network, Lyric coordinated a series of economists group letters advising state and federal policymakers on balancing budgets during the pandemic, which played a crucial role in New Jersey's adoption of a groundbreaking millionaire's tax in September 2020.
+As a National Fellow at the Scholars Strategy Network, Lyric coordinated a series of economists group letters advising state and federal policymakers on how to balance budgets during the Covid-19 pandemic without drastic cuts to spending, which would disproportionately harm those who had already been most affected by the pandemic. This project played a crucial role in New Jersey's adoption of a groundbreaking millionaire's tax in September 2020.
 
 <div style="border: 1px solid #ddd; padding: 15px; max-width: 500px; border-radius: 8px;">
   <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
@@ -19,6 +19,9 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
       Economists Letter Helped Push for New Jersey Millionaires Tax
     </a>
   </h3>
+  <p style="font-size: 8px;">
+    scholars.org
+  </p>
 </div>
 
 <br>
