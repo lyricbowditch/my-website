@@ -5,7 +5,9 @@ title: Other Projects
 
 # Other Projects
 
-## Economists' Group Letter
+## New Jersey Millionaires Tax
+
+As a National Fellow at the Scholars Strategy Network, Lyric coordinated a series of economists group letters advising state and federal policymakers on balancing budgets during the pandemic, which played a crucial role in New Jersey's adoption of a millionaire's tax in September 2020.
 
 * * *
 
