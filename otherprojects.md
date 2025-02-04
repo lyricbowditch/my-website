@@ -106,7 +106,7 @@ Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a var
 
 <a href="https://open.spotify.com/album/7zsR6O8S3HQVXqkgKbK4fi?si=LUDbLkBQRlOdAok-XPPfjQ" target="_blank">
 <img src="{{ "/assets/BrickHill.jpeg" | relative_url }}"
-         alt="Article thumbnail" width="100%" style="border-radius: 8px;">
+         alt="Brick Hill album art" width="100%" style="border-radius: 8px;">
 </a>
 
 <div style="max-width: 500px; margin: auto;">
@@ -121,3 +121,6 @@ Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a var
   </iframe>
 </div>
 </p>
+
+<img src="{{ "/assets/merch1.png" | relative_url }}"
+         alt="Jupie merch photo" width="100%" style="border-radius: 8px;">
