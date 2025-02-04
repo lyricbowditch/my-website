@@ -26,7 +26,7 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
 
 ## <i>Document Journal</i>
 
-Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i>. 
+Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i> in 2019. 
 
 <div style="border: 1px solid #ddd; padding: 10px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.documentjournal.com/author/lyric-bowditch/" target="_blank">
@@ -35,7 +35,7 @@ Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Docu
   </a>
   <h4 style="margin-bottom: 5px;">
     <a href="https://www.documentjournal.com/author/lyric-bowditch/" target="_blank">
-     Articles by Lyric Bowditch (2019)
+     Articles by Lyric Bowditch
     </a>
   </h4>
 </div>
