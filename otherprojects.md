@@ -35,7 +35,7 @@ Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Docu
   </a>
   <h4 style="margin-bottom: 5px;">
     <a href="https://www.documentjournal.com/author/lyric-bowditch/" target="_blank">
-     Articles by Lyric Bowditch in <i>Document Journal</i> (2019)
+     Articles by Lyric Bowditch (2019)
     </a>
   </h4>
 </div>
