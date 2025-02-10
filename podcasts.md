@@ -48,7 +48,7 @@ title: Podcasts
   <img src="{{ "/assets/PIMA.png" | relative_url }}" alt="People I (Mostly) Admire show art" width="200" height="200">
 </a>
 
-<b>Associate produced <a href="https://freakonomics.com/series/people-i-mostly-admire/" target="_blank"><i>People I (Mostly) Admire</i></a></b> — a bi-weekly interview podcast hosted by economist and <i>Freakonomics</i> co-author Steve Levitt. Created complete first drafts of <b>more than 40 episodes</b> and fully produced one episode, pitching guests, created research packets to prep host for all interviews, supervised interviews, and reviewed mixes.
+<b>Associate produced <a href="https://freakonomics.com/series/people-i-mostly-admire/" target="_blank"><i>People I (Mostly) Admire</i></a></b> — a bi-weekly interview podcast hosted by economist and <i>Freakonomics</i> co-author Steve Levitt. Created complete first drafts of <b>more than 40 episodes</b> and fully produced one episode, pitched guests, created research packets to prep host for all interviews, supervised interviews, and reviewed mixes.
 
 * Ep. 140: "<a href="https://freakonomics.com/podcast/how-to-breathe-better/" target="_blank">How to Breathe Better</a>"
 
