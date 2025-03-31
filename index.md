@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-<b>Lyric Bowditch is an independent podcast producer and editor</b> based in Brooklyn, NY. She is represented by Annabel Garcia Eller at The Gersh Agency. 
+<b>Lyric Bowditch is an independent podcast producer and editor</b> based in Brooklyn, NY. Currently she is the script writer for <i>National Park After Dark</i> and the producer of the <i>On The Rise</i> podcast from the Tennis Channel. She is represented by Annabel Garcia Eller at The Gersh Agency. 
 
 Previously, Lyric produced both weekly conversation podcasts and multi-voice narrative shows at the Freakonomics Radio Network for four years, including developing the limited series <i>Off Leash</i> — which was "highly recommended" by <i>The New Yorker</i> and one of CBC Radio's "best podcasts of 2022." She also served as the Freakonomics Radio Network's video editor. 
 
