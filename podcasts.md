@@ -6,7 +6,7 @@ title: Podcasts
 # Podcasts 
 
 <a href="https://www.history.com/htw" target="_blank">
-  <img src="{{ "/assets/HTW.jpg" | relative_url }}" alt="HTW show art" width="200" height="200">
+  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
 </a>
 
 <b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
