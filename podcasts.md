@@ -5,6 +5,16 @@ title: Podcasts
 
 # Podcasts 
 
+<a href="https://www.history.com/htw" target="_blank">
+  <img src="{{ "/assets/HTW.jpg" | relative_url }}" alt="HTW show art" width="200" height="200">
+</a>
+
+<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you insight into the people — both famous and unknown — whose decisions reshaped the world we live in today.
+
+* S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
+
+* * *
+
 <a href="https://freakonomics.com/series/off-leash/" target="_blank">
   <img src="{{ "/assets/offleash.jpg" | relative_url }}" alt="Off Leash show art" width="200" height="200">
 </a>
@@ -58,4 +68,4 @@ title: Podcasts
   <img src="{{ "/assets/On The Rise.jpg" | relative_url }}" alt="On The Rise show art" width="200" height="200">
 </a>
 
-<b>Currently producing <a hred="https://podcasts.apple.com/us/podcast/on-the-rise/id1573633667" target="_blank"><i>On the Rise</i></a></b> — an interview podcast from the Tennis Channel that features compelling stories and unique voices in women's college tennis.
+<b>Produced <a hred="https://podcasts.apple.com/us/podcast/on-the-rise/id1573633667" target="_blank"><i>On the Rise</i></a></b> — an interview podcast from the Tennis Channel that features compelling stories and unique voices in women's college tennis.
