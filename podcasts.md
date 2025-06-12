@@ -9,7 +9,7 @@ title: Podcasts
   <img src="{{ "/assets/HTW.jpg" | relative_url }}" alt="HTW show art" width="200" height="200">
 </a>
 
-<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you insight into the people — both famous and unknown — whose decisions reshaped the world we live in today.
+<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
 
 * S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
 
