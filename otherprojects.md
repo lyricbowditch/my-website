@@ -5,6 +5,25 @@ title: Other Projects
 
 # Other Projects
 
+## House of SpeakEasy
+
+Lyric is currently the *Executive Producer* for House of SpeakEasy — a nonprofit grounded in the belief that the ability to read and write enables a person to know their rights, be confident in their identity, and engage boldly and empathetically with the world around them. All of our programs support reading, writing, and public participation in literary culture. In her role as Executive Producer, Lyric leads a team to produce Seriously Entertaining, a critically-acclaimed literary cabaret event series, and Seriously Speaking, a platform for thoughtful discussions about polemical subjects.
+
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://www.houseofspeakeasy.org/seriously-entertaining/" target="_blank">
+    <img src="{{ "/assets/hoslogo.jpg" | relative_url }}"
+         alt="House of SpeakEasy Logo" width="30%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://www.houseofspeakeasy.org/seriously-entertaining/" target="_blank">
+      About Seriously Entertaining
+    </a>
+  </h4>
+</div>
+<br>
+
+* * *
+
 ## New Jersey Millionaires Tax
 
 As a National Fellow at the Scholars Strategy Network, Lyric coordinated a series of economists group letters advising state and federal policymakers on how to balance budgets during the Covid-19 pandemic without drastic cuts to spending, which would disproportionately harm those who had already been most affected by the pandemic. This project played a crucial role in New Jersey's adoption of a millionaire's tax in September 2020.
