@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-<b>Lyric Bowditch is an independent podcast producer and editor</b> based in Brooklyn, NY. Current roles include producer for <i>HISTORY This Week</i>; script writer for <i>National Park After Dark</i>; and Executive Producer of live events for House of SpeakEasy. She also provides independent podcast consulting, development, and production services — in addition to developing projects of her own. She is represented by Annabel Garcia Eller at The Gersh Agency. 
+<b>Lyric Bowditch is an independent podcast producer and editor</b> based in Brooklyn, NY. Current roles include producer for <i>HISTORY This Week</i>, <i>The Messy Parts</i>, and <i>On The Rise</i>; scriptwriter for <i>National Park After Dark</i>; and Executive Producer for House of SpeakEasy. She also provides independent podcast consulting, development, and production services — in addition to developing projects of her own. She is represented by Annabel Garcia Eller at The Gersh Agency. 
 
 Previously, Lyric produced both weekly conversation podcasts and multi-voice narrative shows at the Freakonomics Radio Network for four years, including developing the limited series <i>Off Leash</i> — which was "highly recommended" by <i>The New Yorker</i> and one of CBC Radio's "best podcasts of 2022." She also served as the Freakonomics Radio Network's video editor. 
 
