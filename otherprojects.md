@@ -7,7 +7,7 @@ title: Other Projects
 
 ## House of SpeakEasy
 
-Lyric is currently the **Executive Producer** for House of SpeakEasy — a nonprofit grounded in the belief that the ability to read and write enables a person to know their rights, be confident in their identity, and engage boldly and empathetically with the world around them. In her role as Executive Producer, Lyric leads a team to produce Seriously Entertaining, a critically-acclaimed literary cabaret event series, and Seriously Speaking, a platform for thoughtful discussions about polemical subjects.
+Lyric is currently the <b>Executive Producer</b> for House of SpeakEasy — a nonprofit grounded in the belief that the ability to read and write enables a person to know their rights, be confident in their identity, and engage boldly and empathetically with the world around them. In her role as Executive Producer, Lyric leads a team to produce Seriously Entertaining, a critically-acclaimed literary cabaret event series, and Seriously Speaking, a platform for thoughtful discussions about polemical subjects.
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.houseofspeakeasy.org/seriously-entertaining/" target="_blank">
@@ -35,7 +35,7 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
   </a>
   <h4>
     <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
-      Economists Letter Helped Push for New Jersey Millionaires Tax
+      "Economists Letter Helped Push for New Jersey Millionaires Tax"
     </a>
   </h4>
 </div>
