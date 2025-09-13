@@ -5,16 +5,6 @@ title: Podcasts
 
 # Podcasts 
 
-<a href="https://www.history.com/htw" target="_blank">
-  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
-</a>
-
-<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
-
-* S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
-
-* * *
-
 <a href="https://freakonomics.com/series/off-leash/" target="_blank">
   <img src="{{ "/assets/offleash.jpg" | relative_url }}" alt="Off Leash show art" width="200" height="200">
 </a>
@@ -61,6 +51,34 @@ title: Podcasts
 <b>Associate produced <a href="https://freakonomics.com/series/people-i-mostly-admire/" target="_blank"><i>People I (Mostly) Admire</i></a></b> — a bi-weekly interview podcast hosted by economist and <i>Freakonomics</i> co-author Steve Levitt. Created complete first drafts of <b>more than 40 episodes</b> and fully produced one episode, pitched guests, created research packets to prep host for all interviews, supervised interviews, and reviewed mixes.
 
 * Ep. 140: "<a href="https://freakonomics.com/podcast/how-to-breathe-better/" target="_blank">How to Breathe Better</a>"
+
+* * *
+
+<a href="https://www.history.com/htw" target="_blank">
+  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
+</a>
+
+<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
+
+* S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
+
+* * *
+
+<a href="https://www.history.com/htw" target="_blank">
+  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
+</a>
+
+<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
+
+* S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
+
+* * *
+
+<a href="https://www.history.com/htw" target="_blank">
+  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
+</a>
+
+<b>Scriptwriter for <a href="https://www.history.com/htw" target="_blank"><i>National Park After Dark</i></a></b> — a weekly podcast that explores the darker, more complex stories behind our National Parks and public lands. Since launching in 2021, the show has gained over 42 million downloads, and been featured in <i>The New York Times</i>, and recieved Outdoor Media’s 2024 People’s Choice Award for Best Podcast.
 
 * * *
 
