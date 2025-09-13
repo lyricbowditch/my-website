@@ -64,21 +64,24 @@ title: Podcasts
 
 * * *
 
-<a href="https://www.history.com/htw" target="_blank">
-  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
+<a href="https://www.themessypartspodcast.com/" target="_blank">
+  <img src="{{ "/assets/messypartsart.jpg" | relative_url }}" alt="HTW show art" width="200" height="200">
 </a>
 
-<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
+<b>Freelance producer for <a href="https://www.themessypartspodcast.com/" target="_blank"><i>The Messy Parts Podcast</i></a></b> — a weekly podcast by Maryam Banikarim where successful leaders share the twists, turns, and pivots that shape their uneven journeys. Helped develop a weekly production workflow and produced 10 audio + video episodes, including:
 
-* S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
+* E11: "<a href="https://www.youtube.com/watch?v=eAzy_jdIUNE" target="_blank">Surviving Bullies, Betting on Kindness: Sarah Personette’s Messy Path to CEO</a>"
+* E12: "<a href="https://www.youtube.com/watch?v=91Ty0PC9sBM" target="_blank">From Policy to Punchlines: Negin Farsad’s Messy Leap to Comedy, Activism & Belonging</a>"
+* E13: "<a href="https://www.youtube.com/watch?v=WTBSavF4DwM" target="_blank">What Happens When Your Dream Job Ends? Tom Kitt’s Journey of Heartbreak, Resilience & Tony Awards</a>"
+* E14: "<a href="https://www.youtube.com/watch?v=Icywc5UtOPo" target="_blank">Emma Rosenblum: Overcoming Anxiety and Thriving Through a Twisty Career</a>"
 
 * * *
 
-<a href="https://www.history.com/htw" target="_blank">
-  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
+<a href="https://www.npadpodcast.com/" target="_blank">
+  <img src="{{ "/assets/NPADart.jpeg" | relative_url }}" alt="NPAD show art" width="200" height="200">
 </a>
 
-<b>Scriptwriter for <a href="https://www.history.com/htw" target="_blank"><i>National Park After Dark</i></a></b> — a weekly podcast that explores the darker, more complex stories behind our National Parks and public lands. Since launching in 2021, the show has gained over 42 million downloads, and been featured in <i>The New York Times</i>, and recieved Outdoor Media’s 2024 People’s Choice Award for Best Podcast.
+<b>Scriptwriter for <a href="https://www.npadpodcast.com/" target="_blank"><i>National Park After Dark</i></a></b> — a weekly podcast that explores the darker, more complex stories behind our National Parks and public lands. Researched and drafted scripts (7,000+ words) for 11 episodes. Since launching in 2021, the show has gained over 42 million downloads, and been featured in <i>The New York Times</i>, and recieved Outdoor Media’s 2024 People’s Choice Award for Best Podcast.
 
 * * *
 
