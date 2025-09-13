@@ -9,7 +9,7 @@ title: Podcasts
   <img src="{{ "/assets/offleash.jpg" | relative_url }}" alt="Off Leash show art" width="200" height="200">
 </a>
 
-<b>Developed and co-produced <a href="https://freakonomics.com/series/off-leash/" target="_blank"><i>Off Leash</i></a></b> — a six-episode narrative series about the scruffy, curious, joyful world of dogs, hosted by canine cognition researcher and best-selling author Alexandra Horowitz. <i>Off Leash</i> was "highly recommended" by <a href="https://www.newyorker.com/goings-on-about-town/podcasts/off-leash-07-11-22" target="_blank"><i>The New Yorker</i></a> and included on the <a href="https://www.cbc.ca/radio/podcastplaylist/the-best-podcasts-of-2022-1.6680311#:~:text=Off%20Leash%C2%A0(Freakonomics)%C2%A0" target="_blank">CBC Radio</a> "best podcasts of 2022" list.
+<b>Developed and co-produced <a href="https://freakonomics.com/series/off-leash/" target="_blank"><i>Off Leash</i></a></b> — a six-episode narrative series about the scruffy, curious, joyful world of dogs, hosted by canine cognition researcher and best-selling author Alexandra Horowitz. <i>Off Leash</i> was "highly recommended" by <a href="https://www.newyorker.com/goings-on-about-town/podcasts/off-leash-07-11-22" target="_blank"><i>The New Yorker</i></a> and named one of <a href="https://www.cbc.ca/radio/podcastplaylist/the-best-podcasts-of-2022-1.6680311#:~:text=Off%20Leash%C2%A0(Freakonomics)%C2%A0" target="_blank">CBC Radio</a>'s "best podcasts of 2022."
 
 * Ep. 1: "<a href="https://freakonomics.com/podcast/smell/" target="_blank">Smell</a>"
 * Ep. 2: "<a href="https://freakonomics.com/podcast/names/" target="_blank">Names</a>"
@@ -81,7 +81,7 @@ title: Podcasts
   <img src="{{ "/assets/NPADart.jpeg" | relative_url }}" alt="NPAD show art" width="200" height="200">
 </a>
 
-<b>Scriptwriter for <a href="https://www.npadpodcast.com/" target="_blank"><i>National Park After Dark</i></a></b> — a weekly podcast that explores the darker, more complex stories behind our National Parks and public lands. Researched and drafted scripts (7,000+ words) for 11 episodes. Since launching in 2021, the show has gained over 42 million downloads, and been featured in <i>The New York Times</i>, and recieved Outdoor Media’s 2024 People’s Choice Award for Best Podcast.
+<b>Scriptwriter for <a href="https://www.npadpodcast.com/" target="_blank"><i>National Park After Dark</i></a></b> — a weekly podcast that explores the darker, more complex stories behind our National Parks and public lands. Since launching in 2021, the show has gained over 42 million downloads, and been featured in <i>The New York Times</i>, and recieved Outdoor Media’s 2024 People’s Choice Award for Best Podcast.
 
 * * *
 
