@@ -89,4 +89,4 @@ title: Podcasts
   <img src="{{ "/assets/On The Rise.jpg" | relative_url }}" alt="On The Rise show art" width="200" height="200">
 </a>
 
-<b>Produced <a hred="https://podcasts.apple.com/us/podcast/on-the-rise/id1573633667" target="_blank"><i>On the Rise</i></a></b> — an interview podcast from the Tennis Channel that features compelling stories and unique voices in women's college tennis.
+<b>Freelance producer for <a hred="https://podcasts.apple.com/us/podcast/on-the-rise/id1573633667" target="_blank"><i>On the Rise</i></a></b> — an interview podcast from the Tennis Channel that features compelling stories and unique voices in women's college tennis.
