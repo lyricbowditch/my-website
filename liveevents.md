@@ -26,11 +26,11 @@ Lyric is currently the <b>Executive Producer</b> at House of SpeakEasy — a non
 
 ## World Monuments Fund
 
-Lyric served as the <b>Executive Producer</b> for the World Monuments Fund 2025 annual summit at the Rockefeller Center. In celebration of the WMF's 60th anniversary, she worked closely with its six Executive Directors to produce a world-spanning, time-traveling journey that brings the organization's legacy and spirit to life.
+Lyric served as <b>Executive Producer</b> for the World Monuments Fund 2025 annual summit at the Rockefeller Center. In this role, she worked closely with WMF's six Executive Directors to produce the centerpiece of the 60th anniversary celebration: a world-spanning, time-traveling storytelling journey that brings the organization's legacy and spirit to life.
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.wmf.org/events/2025-world-monuments-summit" target="_blank">
-    <img src="{{ "/assets/hoslogo.jpg" | relative_url }}"
+    <img src="{{ "/assets/TOB_3685.jpg" | relative_url }}"
          alt="Photo of Lyric with the WMF President and Execytuve Directors" width="50%" style="border-radius: 8px;">
   </a>
   <h4>
@@ -41,4 +41,3 @@ Lyric served as the <b>Executive Producer</b> for the World Monuments Fund 2025 
 </div>
 <br>
 
-* * *
