@@ -30,7 +30,7 @@ Lyric served as <b>Executive Producer</b> for the World Monuments Fund 2025 annu
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.wmf.org/events/2025-world-monuments-summit" target="_blank">
-    <img src="{{ "/assets/TOB_3685.jpg" | relative_url }}"
+    <img src="{{ "/assets/WMFlogo.png" | relative_url }}"
          alt="Photo of Lyric with the WMF President and Execytuve Directors" width="50%" style="border-radius: 8px;">
   </a>
   <h4>
