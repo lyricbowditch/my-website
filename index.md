@@ -10,6 +10,6 @@ Previously, Lyric served as the Executive Producer of House of SpeakEasy, where 
 
 Lyric spent four years as a full-time staffer at the Freakonomics Radio Network, where she produced both weekly conversation podcasts and multi-voice narrative shows, including <i>No Stupid Questions</i> and <i>People I (Mostly) Admire</i>. She developped the Freakonomics limited series <i>Off Leash</i> — which was "highly recommended" by <i>The New Yorker</i> and one of CBC Radio's "best podcasts of 2022." She also served as the Freakonomics Radio Network's video editor. 
 
-Originally from Baltimore, Lyric grew up in Cairo, Egypt (2006-2016) and now lives in Brooklyn, NY. She earned a B.A. in English/French comparative literature and a minor in computer science from Barnard College in New York City, where she served as editor of the Columbia Daily Spectator’s long-form magazine <i>The Eye</i>. When she’s not producing podcasts, there’s a good chance Lyric is listening to one while cooking, gardening, or training for her next marathon. 
+Originally from Baltimore, Lyric grew up in Cairo, Egypt (2006-2016) and now lives in Brooklyn, NY. She earned a B.A. in English/French comparative literature and a minor in computer science from Barnard College in New York City, where she served as editor of the Columbia Daily Spectator’s long-form magazine <i>The Eye</i>. 
 
 Get in touch at lyricbowditch[at]gmail[dot]com or connect on <a href="https://www.linkedin.com/in/lyric-bowditch-6b964a161/">LinkedIn</a>.
