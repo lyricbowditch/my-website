@@ -67,7 +67,7 @@ As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Col
 
 ## Collaboration with Jupie
 
-Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a variety of artistic media. She created original artwork for his 2025 single "Crotona" and his 2024 album <i>Brick Hill</i>, on which she wrote lyrics and recorded vocals for the track “It Was a Thursday.” Previously, she designed Jupie merch and directed/edited the music video for the track “Yams” off his 2019 EP <i>Deep in the Seat</i>.
+Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a variety of artistic media. She created original artwork for his 2026 single "Crotona" and his 2024 album <i>Brick Hill</i>, on which she wrote lyrics and recorded vocals for the track “It Was a Thursday.” Previously, she designed art for Jupie merch and directed/edited the music video for the track “Yams” off his 2019 EP <i>Deep in the Seat</i>.
 
 <a href="https://open.spotify.com/album/7zsR6O8S3HQVXqkgKbK4fi?si=LUDbLkBQRlOdAok-XPPfjQ" target="_blank">
 <img src="{{ "/assets/BrickHill.jpeg" | relative_url }}"
