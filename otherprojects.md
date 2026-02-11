@@ -45,15 +45,15 @@ Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Docu
 
 ## <i>The Columbia Daily Spectator</i>
 
-As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Columbia Daily Spectator</i>. <b>As editor, she managed and closely mentored a staff of 30 investigative long-form writers and associate editors</b>; developed and ran an intensive, semester-long training program for 20 incoming <i>Eye</i> trainees; provided structural and sentence-level edits on a total of 36 articles (ranging from 1,500 to 4,000 words); and liaised with the other sections of <i>Spectator</i> to coordinate diverse media components. She also wrote eight long-form articles, including a 4,570-word cover story that sparked an official change in Barnard’s transfer credit acceptance policy for American Sign Language courses. 
+As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Columbia Daily Spectator</i>. <b>As editor, she managed and closely mentored a staff of 30 investigative long-form writers and associate editors</b>; developed and ran an intensive, semester-long training program for 20 incoming <i>Eye</i> trainees; provided structural and sentence-level edits on a total of 36 articles (ranging from 1,500 to 4,000 words); and liaised with the other sections of <i>Spectator</i> to coordinate diverse media components. She also wrote eight long-form articles, including a 4,570-word cover story that sparked an official change in Barnard’s transfer credit acceptance policy for American Sign Language courses — and set the wheels in motion for the establishment of <a href="https://barnard.edu/news/barnard-expands-language-course-offerings">ASL courses at Barnard</a> nearly a decade later. 
 
 <div style="border: 1px solid #ddd; padding: 10px; max-width: 500px; border-radius: 8px;">
-  <a href="http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">
+  <a href="https://web.archive.org/web/20190825085632/http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">
     <img src="{{ "/assets/cusigns.gif" | relative_url }}"
          alt="ASL article thumbnail" width="50%" style="border-radius: 8px;">
   </a>
   <h4 style="margin-bottom: 5px;">
-    <a href="http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">
+    <a href="https://web.archive.org/web/20190825085632/http://features.columbiaspectator.com/eye/2017/02/21/looking-for-signs-at-cu/" target="_blank">
      Looking For Signs at CU
     </a>
   </h4>
@@ -67,7 +67,7 @@ As a student at Barnard College, Lyric ran <i>The Eye</i> magazine at <i>The Col
 
 ## Collaboration with Jupie
 
-Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a variety of artistic media. She created original collage artwork for his 2024 album <i>Brick Hill</i>, on which she wrote lyrics and recorded vocals for the track “It Was a Thursday.” Previously, she designed Jupie merch and directed/edited the music video for the track “Yams” off his 2019 EP <i>Deep in the Seat</i>.
+Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a variety of artistic media. She created original artwork for his 2025 single "Crotona" and his 2024 album <i>Brick Hill</i>, on which she wrote lyrics and recorded vocals for the track “It Was a Thursday.” Previously, she designed Jupie merch and directed/edited the music video for the track “Yams” off his 2019 EP <i>Deep in the Seat</i>.
 
 <a href="https://open.spotify.com/album/7zsR6O8S3HQVXqkgKbK4fi?si=LUDbLkBQRlOdAok-XPPfjQ" target="_blank">
 <img src="{{ "/assets/BrickHill.jpeg" | relative_url }}"
@@ -76,6 +76,10 @@ Lyric has collaborated with Baltimore-based musical artist <b>Jupie</b> in a var
 
 <div style="max-width: 500px; margin: auto;">
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6TceYsmk5EL8q2uDpmr7e7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+<p>
+<div style="max-width: 500px; margin: auto;">
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/32IHNapsALGfCC8ZMcNvXe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 <p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
