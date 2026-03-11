@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-<b>Lyric Bowditch is a Podcast and Live Event Producer</b> for the iDeas Lab at the Johns Hopkins Berman Institute of Bioethics. With a focus on storytelling, Lyric also offers independent podcast/live event consulting, development, and production services. Forthcoming projects include a series on election trust research for the University of California San Diego, an audio documentary for BBC Radio 4, and a narrative limited series that placed runner-up in RESONATE's 2025 Pitch Party competition.
+<b>Lyric Bowditch is a Podcast and Live Event Producer</b> for the iDeas Lab at the Johns Hopkins Berman Institute of Bioethics. Lyric also develops podcasts as an independent contractor and produces original audio journalism investigations of her own. Forthcoming projects include a series on election trust research for the University of California San Diego, an audio documentary for BBC Radio 4, and a narrative limited series that placed runner-up in RESONATE's 2025 Pitch Party competition.
 
 Previously, Lyric served as the Executive Producer of House of SpeakEasy, where she led the team behind the literary live-storytelling show <i>Seriously Entertaining</i>, including two co-productions with <i>The New Yorker</i>. Other prior freelance roles include executive producer of the World Monuments Fund 60th Anniversary Summit, producer for the podcasts <i>HISTORY This Week</i> and <i>The Messy Parts</i>, and scriptwriter for <i>National Park After Dark</i>. 
 
