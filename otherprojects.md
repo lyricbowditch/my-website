@@ -7,7 +7,7 @@ title: Other Projects
 
 ## New Jersey Millionaires Tax
 
-As a National Fellow at the Scholars Strategy Network, Lyric coordinated a series of economists group letters advising state and federal policymakers on how to balance budgets during the Covid-19 pandemic without drastic cuts to spending, which would disproportionately harm those who had already been most affected by the pandemic. This project played a crucial role in New Jersey's adoption of a millionaire's tax in September 2020.
+As a National Fellow at the Scholars Strategy Network, Lyric coordinated a series of economists' group letters advising state and federal policymakers on how to balance budgets during the Covid-19 pandemic without drastic cuts to spending, which would disproportionately harm those who had already been most affected by the pandemic. This project played a crucial role in New Jersey's adoption of a millionaire's tax in September 2020.
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
@@ -17,25 +17,6 @@ As a National Fellow at the Scholars Strategy Network, Lyric coordinated a serie
   <h4>
     <a href="https://scholars.org/features/economists-letter-helped-push-new-jersey" target="_blank">
       "Economists Letter Helped Push for New Jersey Millionaires Tax"
-    </a>
-  </h4>
-</div>
-<br>
-
-* * *
-
-## <i>Document Journal</i>
-
-Lyric was an editorial intern at the arts, culture, and fashion magazine <i>Document Journal</i> in 2019. 
-
-<div style="border: 1px solid #ddd; padding: 10px; max-width: 500px; border-radius: 8px;">
-  <a href="https://www.documentjournal.com/author/lyric-bowditch/" target="_blank">
-    <img src="{{ "/assets/document2.jpg" | relative_url }}"
-         alt="article thumbnail" width="50%" style="border-radius: 8px;">
-  </a>
-  <h4 style="margin-bottom: 5px;">
-    <a href="https://www.documentjournal.com/author/lyric-bowditch/" target="_blank">
-     Articles by Lyric Bowditch
     </a>
   </h4>
 </div>
