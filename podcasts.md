@@ -60,6 +60,7 @@ title: Podcasts
 
 <b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
 
+* S7.E4: "<a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028">HTW Live: Busting the Myths of Irish Immigration — Recorded at the Tenement Museum</a>"
 * S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
 
 * * *
