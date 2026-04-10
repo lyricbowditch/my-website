@@ -49,8 +49,8 @@ Lyric served as <b>Producer</b> for the <i>History This Week</i> podcast's first
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028" target="_blank">
-    <img src="{{ "/assets/WMFlogo.png" | relative_url }}"
-         alt="Photo of Lyric with the WMF President and Execytuve Directors" width="50%" style="border-radius: 8px;">
+    <img src="{{ "/assets/HTWLive.jpeg" | relative_url }}"
+         alt="HTW Live Episode podcast art" width="50%" style="border-radius: 8px;">
   </a>
   <h4>
     <a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028" target="_blank">
