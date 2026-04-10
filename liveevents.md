@@ -41,3 +41,22 @@ Lyric served as <b>Executive Producer</b> for the World Monuments Fund 2025 annu
 </div>
 <br>
 
+* * *
+
+## History This Week LIVE
+
+Lyric served as <b>Producer</b> for the <i>History This Week</i> podcast's first-ever live show at the <b>Tenement Museum</b>. Host Sally Helm and historian Tyler Anbinder had a rich conversation about the myths and lives of Irish immigrants who came to New York City during the Great Potato Famine — in front of a sold-out crowd.
+
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028" target="_blank">
+    <img src="{{ "/assets/WMFlogo.png" | relative_url }}"
+         alt="Photo of Lyric with the WMF President and Execytuve Directors" width="50%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028" target="_blank">
+      HTW Live: Busting the Myths of Irish Immigration — Recorded at the Tenement Museum
+    </a>
+  </h4>
+</div>
+<br>
+
