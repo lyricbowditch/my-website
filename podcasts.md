@@ -5,6 +5,21 @@ title: Podcasts
 
 # Podcasts 
 
+<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/" target="_blank">
+  <img src="{{ "/assets/playinggod.png" | relative_url }}" alt="playing god? show art" width="200" height="200">
+</a>
+
+<b>Produced season 2 of the award-winning podcast <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/" target="_blank"><i>playing god?</i></a></b> for the Johns Hopkins Berman Institute of Bioethics. Life-and-death decisions. Difficult tradeoffs. <i>playing god?</i> explores ethical dilemmas in health and medicine through the first-person stories of people who have lived them.
+
+* Ep. 1: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-1-i-need-you-to-help-me-die/" target="_blank">I Need You to Help Me Die</a>"
+* Ep. 2: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-2-to-infinity-and-beyond-at-what-cost/" target="_blank">To Infinity and Beyond—At What Cost?</a>"
+* Ep. 3: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-3-losing-noah-part-1/" target="_blank">Losing Noah (Part 1)</a>"
+* Ep. 4: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-4-how-far-would-you-go-to-have-a-healthy-baby-part-2/" target="_blank">How Far Would You Go to Have a Healthy Baby? (Part 2)</a>"
+* Ep. 5: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-5-a-shot-at-weight-loss-should-i-take-it/" target="_blank">A Shot at Weight Loss: Should I Take It?</a>"
+* Ep. 6: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-6-two-bodies-one-prescription/" target="_blank">Two Bodies, One Prescription</a>"
+
+* * *
+
 <a href="https://freakonomics.com/series/off-leash/" target="_blank">
   <img src="{{ "/assets/offleash.jpg" | relative_url }}" alt="Off Leash show art" width="200" height="200">
 </a>
