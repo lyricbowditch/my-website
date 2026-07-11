@@ -30,6 +30,19 @@ title: Podcasts
 
 * * *
 
+<a href="https://podcasts.apple.com/us/podcast/the-election-trust-research-podcast/id1882482033" target="_blank">
+  <img src="{{ "/assets/Election Trust Research Podcast.png" | relative_url }}" alt="The Election Trust Research Podcast show art" width="200" height="200">
+</a>
+
+<b>Developed and produced <a href="https://podcasts.apple.com/us/podcast/the-election-trust-research-podcast/id1882482033" target="_blank"><i>The Election Trust Research Podcast</i></a></b> for the University of California San Diego Center for Transparent and Trusted Elections, from concept to launch. At a time when American elections are being tested in new and complex ways, it's more important than ever to bridge the gap between those who run elections and those who study them. In <i>The Election Trust Research Podcast</i>, you'll hear from election administrators and researchers from across the country — and across the political spectrum — working to improve elections and increase public trust. 
+
+* Ep. 1: "<a href="https://podcasts.apple.com/us/podcast/charles-stewart-iii-on-evidence-based-reform/id1882482033?i=1000757617086" target="_blank">Charles Stewart III on Evidence-Based Reform</a>"
+* Ep. 2: "<a href="https://podcasts.apple.com/us/podcast/thad-kousser-on-making-election-trust-stick/id1882482033?i=1000757617087" target="_blank">Thad Kousser on Making Election Trust Stick</a>"
+* Ep. 3: "<a href="https://podcasts.apple.com/us/podcast/amelia-powers-gardner-on-running-elections-in-the-age/id1882482033?i=1000757617020" target="_blank">Amelia Powers Gardner on Running Elections in the Age of Denial</a>"
+* Ep. 4: "<a href="https://podcasts.apple.com/us/podcast/lauren-prather-on-election-monitoring-and-public-trust/id1882482033?i=1000757619168" target="_blank">Lauren Prather on Election Monitoring and Public Trust</a>"
+
+* * *
+
 <a href="https://freakonomics.com/series/off-leash/" target="_blank">
   <img src="{{ "/assets/offleash.jpg" | relative_url }}" alt="Off Leash show art" width="200" height="200">
 </a>
