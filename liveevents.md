@@ -45,7 +45,7 @@ Lyric served as <b>Podcast and Live Event Producer</b> for the iDeas Lab at the 
 
 ## HISTORY This Week x The Tenement Museum
 
-Lyric produced the <b>first-ever LIVE episode</b> of the History Channel's immersive podcast <i>HISTORY This Week</i> at the Tenement Museum. Host Sally Helm and historian Tyler Anbinder had a rich conversation about the myths and lives of Irish immigrants who came to New York City during the Great Potato Famine — in front of a sold-out crowd. Lyric also produced a recording of the event as S7.E4 in the podcast feed: “<a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028">HTW Live: Busting the Myths of Irish Immigration.</a>”
+Lyric produced the <b>first-ever <a href="https://www.tenement.org/programs/history-this-week-live-podcast-with-tyler-anbinder/">LIVE episode</a></b> of the History Channel's immersive podcast <i>HISTORY This Week</i> at the Tenement Museum. Host Sally Helm and historian Tyler Anbinder had a rich conversation about the myths and lives of Irish immigrants who came to New York City during the Great Potato Famine — in front of a sold-out crowd. Lyric also produced a recording of the event as S7.E4 in the podcast feed: “<a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028">HTW Live: Busting the Myths of Irish Immigration.</a>”
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.tenement.org/programs/history-this-week-live-podcast-with-tyler-anbinder/" target="_blank">
