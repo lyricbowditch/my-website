@@ -7,7 +7,7 @@ title: Other Projects
 
 ## House of SpeakEasy
 
-Until February 2026, Lyric was the <b>Executive Producer</b> at House of SpeakEasy — a nonprofit that connects writers with audiences and supports reading, writing, and public participation in literary culture. In her role as Executive Producer, Lyric led the team behind the <a href="https://www.nytimes.com/2016/03/05/books/its-not-a-reading-its-literary-cabaret.html">critically-acclaimed</a> literary cabaret series <i>Seriously Entertaining</i>. Each month, <i>Seriously Entertaining</i> brings together four incredible writers for a night of live storytelling at Joe's Pub at The Public Theater. Lyric worked closely with writers (including Bill Buford, Junot Díaz, Mary Gaitskill, Yiyun Li, ZZ Packer, Gary Shteyngart, and <a href="https://www.houseofspeakeasy.org/writers/">many more</a>) to develop and prepare engaging talks. During her tenure, Lyric facilitated two co-productions with <i>The New Yorker</i>, as well as collaborations with Knopf Publishing, powerHouse Books, and the Association of Marshall Scholars. 
+Lyric is the <b>Executive Producer</b> of House of SpeakEasy—a nonprofit that connects writers with audiences and supports reading, writing, and public participation in literary culture. As Executive Producer, Lyric leads the team behind the <a href="https://www.nytimes.com/2016/03/05/books/its-not-a-reading-its-literary-cabaret.html">critically-acclaimed</a> literary cabaret series <i>Seriously Entertaining</i>, which brings together four incredible writers each month for a night of live storytelling at Joe's Pub at The Public Theater. Lyric works closely with writers (including Bill Buford, Junot Díaz, Mary Gaitskill, Yiyun Li, ZZ Packer, Gary Shteyngart, and <a href="https://www.houseofspeakeasy.org/writers/">many more</a>) to develop and rehearse engaging talks. During her tenure, Lyric has facilitated three co-productions with <i>The New Yorker</i>, as well as collaborations with Knopf Publishing, powerHouse Books, and the Association of Marshall Scholars. 
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.houseofspeakeasy.org/seriously-entertaining/" target="_blank">
@@ -17,6 +17,44 @@ Until February 2026, Lyric was the <b>Executive Producer</b> at House of SpeakEa
   <h4>
     <a href="https://www.houseofspeakeasy.org/seriously-entertaining/" target="_blank">
       About Seriously Entertaining
+    </a>
+  </h4>
+</div>
+<br>
+
+* * *
+
+## The iDeas Lab
+
+Lyric served as <b>Podcast and Live Event Producer</b> for the iDeas Lab at the Johns Hopkins Berman Institute of Bioethics. In this role, Lyric produced "<a href="https://www.bklynlibrary.org/calendar/cbh-talk-life-death-and-center-for-brooklyn-20260521-0630pm">Life, Death, and Bioethics</a>" — a public event at the Center for Brooklyn History to celebrate launch of <i>playing god?</i> Season 2. 
+
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/" target="_blank">
+    <img src="{{ "/assets/iDeasLabLogo.png" | relative_url }}"
+         alt="iDeas Lab Logo" width="50%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/" target="_blank">
+      About the iDeas Lab
+    </a>
+  </h4>
+</div>
+<br>
+
+* * *
+
+## HISTORY This Week x The Tenement Museum
+
+Lyric produced the first-ever <i>HISTORY This Week</i> <b>live</b> podcast episode at The Tenement Museum. 
+
+<div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
+  <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/" target="_blank">
+    <img src="{{ "/assets/iDeasLabLogo.png" | relative_url }}"
+         alt="iDeas Lab Logo" width="50%" style="border-radius: 8px;">
+  </a>
+  <h4>
+    <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/" target="_blank">
+      About the iDeas Lab
     </a>
   </h4>
 </div>
