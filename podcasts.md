@@ -34,12 +34,23 @@ title: Podcasts
   <img src="{{ "/assets/Election Trust Research Podcast.png" | relative_url }}" alt="The Election Trust Research Podcast show art" width="200" height="200">
 </a>
 
-<b>Developed and produced <a href="https://podcasts.apple.com/us/podcast/the-election-trust-research-podcast/id1882482033" target="_blank"><i>The Election Trust Research Podcast</i></a></b> for the University of California San Diego Center for Transparent and Trusted Elections, from concept to launch. At a time when American elections are being tested in new and complex ways, it's more important than ever to bridge the gap between those who run elections and those who study them. In <i>The Election Trust Research Podcast</i>, you'll hear from election administrators and researchers from across the country — and across the political spectrum — working to improve elections and increase public trust. 
+<b>Developed and produced <a href="https://podcasts.apple.com/us/podcast/the-election-trust-research-podcast/id1882482033" target="_blank"><i>The Election Trust Research Podcast</i></a></b> for the University of California San Diego Center for Transparent and Trusted Elections, from concept to launch. At a time when American elections are being tested in new and complex ways, it's more important than ever to bridge the gap between those who run elections and those who study them. In <i>The Election Trust Research Podcast</i>, you'll hear from election administrators and researchers from across the country, and across the political spectrum, working to improve elections and increase public trust. 
 
 * Ep. 1: "<a href="https://podcasts.apple.com/us/podcast/charles-stewart-iii-on-evidence-based-reform/id1882482033?i=1000757617086" target="_blank">Charles Stewart III on Evidence-Based Reform</a>"
 * Ep. 2: "<a href="https://podcasts.apple.com/us/podcast/thad-kousser-on-making-election-trust-stick/id1882482033?i=1000757617087" target="_blank">Thad Kousser on Making Election Trust Stick</a>"
 * Ep. 3: "<a href="https://podcasts.apple.com/us/podcast/amelia-powers-gardner-on-running-elections-in-the-age/id1882482033?i=1000757617020" target="_blank">Amelia Powers Gardner on Running Elections in the Age of Denial</a>"
 * Ep. 4: "<a href="https://podcasts.apple.com/us/podcast/lauren-prather-on-election-monitoring-and-public-trust/id1882482033?i=1000757619168" target="_blank">Lauren Prather on Election Monitoring and Public Trust</a>"
+
+* * *
+
+<a href="https://www.history.com/htw" target="_blank">
+  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
+</a>
+
+<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
+
+* S7.E4: "<a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028">HTW Live: Busting the Myths of Irish Immigration — Recorded at the Tenement Museum</a>"
+* S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
 
 * * *
 
@@ -89,17 +100,6 @@ title: Podcasts
 <b>Associate produced <a href="https://freakonomics.com/series/people-i-mostly-admire/" target="_blank"><i>People I (Mostly) Admire</i></a></b> — a bi-weekly interview podcast hosted by economist and <i>Freakonomics</i> co-author Steve Levitt. Created complete first drafts of <b>more than 40 episodes</b> and fully produced one episode, pitched guests, created research packets to prep host for all interviews, supervised interviews, and reviewed mixes.
 
 * Ep. 140: "<a href="https://freakonomics.com/podcast/how-to-breathe-better/" target="_blank">How to Breathe Better</a>"
-
-* * *
-
-<a href="https://www.history.com/htw" target="_blank">
-  <img src="{{ "/assets/HTW.jpeg" | relative_url }}" alt="HTW show art" width="200" height="200">
-</a>
-
-<b>Freelance producer for <a href="https://www.history.com/htw" target="_blank"><i>HISTORY This Week</i></a></b> — a HISTORY Channel original podcast that gives you a new perspective on how history is written through insights into the people, both famous and unknown, whose decisions reshaped the world we live in today.
-
-* S7.E4: "<a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028">HTW Live: Busting the Myths of Irish Immigration — Recorded at the Tenement Museum</a>"
-* S6.E7: "<a href="https://podcasts.apple.com/us/podcast/jumping-off-a-high-dive-on-a-horse-while-blind/id1493453604?i=1000711887980" target="_blank">Jumping Off a High Dive on a Horse (While Blind)</a>"
 
 * * *
 
