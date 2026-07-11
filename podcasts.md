@@ -9,7 +9,7 @@ title: Podcasts
   <img src="{{ "/assets/playinggod.png" | relative_url }}" alt="playing god? show art" width="200" height="200">
 </a>
 
-<b>Produced season 2 of the award-winning podcast <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/" target="_blank"><i>playing god?</i></a></b> for the iDeas Lab at the Johns Hopkins Berman Institute of Bioethics. Life-and-death decisions. Difficult tradeoffs. <i>playing god?</i> explores ethical dilemmas in health and medicine through the first-person stories of people who have lived them.
+<b>Produced season 2 of the award-winning podcast <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/" target="_blank"><i>playing god?</i></a></b> for the iDeas Lab at the Johns Hopkins Berman Institute of Bioethics, as well as its launch <a href="https://www.lyricbowditch.com/liveevents">event</a> at the Center for Brooklyn History. Life-and-death decisions. Difficult tradeoffs. <i>playing god?</i> explores ethical dilemmas in health and medicine through the first-person stories of people who have lived them.
 
 * Ep. 1: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-1-i-need-you-to-help-me-die/" target="_blank">I Need You to Help Me Die</a>"
 * Ep. 2: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-2-to-infinity-and-beyond-at-what-cost/" target="_blank">To Infinity and Beyond—At What Cost?</a>"
@@ -17,6 +17,16 @@ title: Podcasts
 * Ep. 4: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-4-how-far-would-you-go-to-have-a-healthy-baby-part-2/" target="_blank">How Far Would You Go to Have a Healthy Baby? (Part 2)</a>"
 * Ep. 5: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-5-a-shot-at-weight-loss-should-i-take-it/" target="_blank">A Shot at Weight Loss: Should I Take It?</a>"
 * Ep. 6: "<a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/episode-6-two-bodies-one-prescription/" target="_blank">Two Bodies, One Prescription</a>"
+
+* * *
+
+<a href="https://www.interlochenpublicradio.org/podcast/points-north/2026-07-07/the-brimstone-blondes-staircase-to-stardom" target="_blank">
+  <img src="{{ "/assets/PNart.jpeg" | relative_url }}" alt="Points North show art" width="200" height="200">
+</a>
+
+<b>Reported and produced an episode of <a href="https://www.interlochenpublicradio.org/podcast/points-north/2026-07-07/the-brimstone-blondes-staircase-to-stardom" target="_blank"><i>Points North</i></a></b> — an award-winning Interlochen Public Radio podcast about the land, water, and inhabitants of the Great Lakes. The episode is about a teen band in western New York that is destined for greatness. Then cracks begin to form, starting with an unwelcome surprise from Lake Erie.
+
+* "<a href="https://www.interlochenpublicradio.org/podcast/points-north/2026-07-07/the-brimstone-blondes-staircase-to-stardom" target="_blank">The Brimstone Blondes’ Staircase to Stardom</a>"
 
 * * *
 
