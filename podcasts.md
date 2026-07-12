@@ -24,7 +24,7 @@ title: Podcasts
   <img src="{{ "/assets/PNart.jpeg" | relative_url }}" alt="Points North show art" width="200" height="200">
 </a>
 
-<b>Reported and produced an episode of <a href="https://www.interlochenpublicradio.org/podcast/points-north/2026-07-07/the-brimstone-blondes-staircase-to-stardom" target="_blank"><i>Points North</i></a></b> — an award-winning Interlochen Public Radio podcast about the land, water, and inhabitants of the Great Lakes. The episode is about a teen band in western New York that is destined for greatness. Then cracks begin to form, starting with an unwelcome surprise from Lake Erie.
+<b>Reported and produced an episode of <a href="https://www.interlochenpublicradio.org/podcast/points-north/2026-07-07/the-brimstone-blondes-staircase-to-stardom" target="_blank"><i>Points North</i></a></b> — an Interlochen Public Radio podcast about the land, water, and inhabitants of the Great Lakes. The episode is about a teen band in western New York that is destined for greatness. Then cracks begin to form, starting with an unwelcome surprise from Lake Erie.
 
 * "<a href="https://www.interlochenpublicradio.org/podcast/points-north/2026-07-07/the-brimstone-blondes-staircase-to-stardom" target="_blank">The Brimstone Blondes’ Staircase to Stardom</a>"
 
