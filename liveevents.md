@@ -54,7 +54,7 @@ Lyric produced the <b>first-ever <a href="https://www.tenement.org/programs/hist
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.tenement.org/programs/history-this-week-live-podcast-with-tyler-anbinder/" target="_blank">
-    <img src="{{ "/assets/HTW event.png" | relative_url }}"
+    <img src="{{ "/assets/HTW event logo.png" | relative_url }}"
          alt="HTW x Tenement Museum Logos" width="50%" style="border-radius: 8px;">
   </a>
   <h4>
