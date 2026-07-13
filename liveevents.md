@@ -33,14 +33,19 @@ Lyric is the <b>Executive Producer</b> of House of SpeakEasy—a nonprofit that 
 
 Lyric served as <b>Podcast and Live Event Producer</b> for the iDeas Lab at the Johns Hopkins Berman Institute of Bioethics. In this role, Lyric produced "<a href="https://www.bklynlibrary.org/calendar/cbh-talk-life-death-and-center-for-brooklyn-20260521-0630pm">Life, Death, and Bioethics</a>" — a public event at the Center for Brooklyn History to celebrate launch of <i>playing god?</i> Season 2. 
 
+<a href="https://www.bklynlibrary.org/calendar/cbh-talk-life-death-and-center-for-brooklyn-20260521-0630pm" target="_blank">
+    <img src="{{ "/assets/playing god event.png" | relative_url }}"
+         alt="Three photos from the event" width="100%">
+  </a>
+  
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
-  <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/" target="_blank">
+  <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/" target="_blank">
     <img src="{{ "/assets/iDeasLabLogo.png" | relative_url }}"
          alt="iDeas Lab Logo" width="50%" style="border-radius: 8px;">
   </a>
   <h4>
-    <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/" target="_blank">
-      About the iDeas Lab
+    <a href="https://bioethics.jhu.edu/research-and-outreach/the-dracopoulos-bloomberg-bioethics-ideas-lab/projects/playing-god/playing-god-season-two/" target="_blank">
+      About <i>playing god?</i>
     </a>
   </h4>
 </div>
@@ -51,6 +56,11 @@ Lyric served as <b>Podcast and Live Event Producer</b> for the iDeas Lab at the 
 ## HISTORY This Week x The Tenement Museum
 
 Lyric produced the <b>first-ever <a href="https://www.tenement.org/programs/history-this-week-live-podcast-with-tyler-anbinder/">LIVE episode</a></b> of the History Channel's immersive podcast <i>HISTORY This Week</i> at the Tenement Museum. Host Sally Helm and historian Tyler Anbinder had a rich conversation about the myths and lives of Irish immigrants who came to New York City during the Great Potato Famine — in front of a sold-out crowd. Lyric also produced a recording of the event as S7.E4 in the podcast feed: “<a href="https://podcasts.apple.com/us/podcast/htw-live-busting-the-myths-of-irish-immigration/id1493453604?i=1000755438028">HTW Live: Busting the Myths of Irish Immigration.</a>”
+
+<a href="https://www.tenement.org/programs/history-this-week-live-podcast-with-tyler-anbinder/" target="_blank">
+    <img src="{{ "/assets/HTW event.png" | relative_url }}"
+         alt="Photo from the event" width="100%">
+  </a>
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.tenement.org/programs/history-this-week-live-podcast-with-tyler-anbinder/" target="_blank">
@@ -70,6 +80,11 @@ Lyric produced the <b>first-ever <a href="https://www.tenement.org/programs/hist
 ## World Monuments Fund
 
 Lyric served as <b>Executive Producer</b> for the World Monuments Fund 2025 annual summit at the Rockefeller Center. In this role, she worked closely with WMF's six Executive Directors to produce the centerpiece of the 60th anniversary celebration: a world-spanning, time-traveling storytelling journey that brings the organization's legacy and spirit to life.
+
+<a href="https://www.wmf.org/events/2025-world-monuments-summit" target="_blank">
+    <img src="{{ "/assets/WMF event.png" | relative_url }}"
+         alt="Three photos from the event" width="100%">
+  </a>
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.wmf.org/events/2025-world-monuments-summit" target="_blank">
