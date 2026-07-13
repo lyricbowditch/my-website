@@ -11,7 +11,7 @@ Lyric is the <b>Executive Producer</b> of House of SpeakEasy—a nonprofit that 
 
 <a href="https://www.youtube.com/@HouseofSpeakEasy/videos" target="_blank">
     <img src="{{ "/assets/speakeasy photo.png" | relative_url }}"
-         alt="Seriously Entertaining headshots" width="50%" style="border-radius: 8px;">
+         alt="Seriously Entertaining headshots" width="100%">
   </a>
 
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
