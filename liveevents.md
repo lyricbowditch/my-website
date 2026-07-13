@@ -9,6 +9,11 @@ title: Other Projects
 
 Lyric is the <b>Executive Producer</b> of House of SpeakEasy—a nonprofit that connects writers with audiences and supports reading, writing, and public participation in literary culture. As Executive Producer, Lyric leads the team behind the <a href="https://www.nytimes.com/2016/03/05/books/its-not-a-reading-its-literary-cabaret.html">critically-acclaimed</a> literary cabaret series <i>Seriously Entertaining</i>, which brings together four incredible writers each month for a night of live storytelling at Joe's Pub at The Public Theater. Lyric works closely with writers (including Bill Buford, Junot Díaz, Mary Gaitskill, Yiyun Li, ZZ Packer, Gary Shteyngart, and <a href="https://www.houseofspeakeasy.org/writers/">many more</a>) to develop and rehearse engaging talks. During her tenure, Lyric has facilitated three co-productions with <i>The New Yorker</i>, as well as collaborations with Knopf Publishing, powerHouse Books, and the Association of Marshall Scholars. 
 
+<a href="https://www.youtube.com/@HouseofSpeakEasy/videos" target="_blank">
+    <img src="{{ "/assets/speakeasy photo.png" | relative_url }}"
+         alt="Seriously Entertaining headshots" width="50%" style="border-radius: 8px;">
+  </a>
+
 <div style="border: 1px solid #ddd; padding: 5px; max-width: 500px; border-radius: 8px;">
   <a href="https://www.houseofspeakeasy.org/seriously-entertaining/" target="_blank">
     <img src="{{ "/assets/hoslogo.jpg" | relative_url }}"
