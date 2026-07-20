@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-<b>Lyric Bowditch</b> is an independent journalist, audio storyteller, and live event producer. She is currently producing an independent documentary podcast series about the 2016 murder of an Italian graduate student by the Egyptian government — and what the case reveals about authoritarianism, accountability, and international systems of power. The series won second place in RESONATE's 2025 Pitch Party competition.
+<b>Lyric Bowditch</b> is an independent journalist, audio storyteller, and live event producer. She is currently producing an <a href="https://donate.uniondocs.org/campaigns/giulio-regeni/">independent documentary podcast series</a> about the 2016 murder of an Italian graduate student by the Egyptian government — and what the case reveals about authoritarianism, accountability, and international systems of power. The series won second place in RESONATE's 2025 Pitch Party competition.
 
 Lyric also serves as Executive Producer of the literary nonprofit House of SpeakEasy, where she leads the team behind the monthly live storytelling show <i>Seriously Entertaining</i> at Joe's Pub. 
 
