@@ -6,7 +6,7 @@ layout: default
 
 <b>Lyric Unger Bowditch</b> is an independent journalist, audio storyteller, and live event producer. She is currently producing an <a href="https://donate.uniondocs.org/campaigns/giulio-regeni/">independent documentary podcast series</a> about the 2016 murder of an Italian graduate student by the Egyptian government — and what the case reveals about authoritarianism, accountability, and international systems of power. The series won second place in RESONATE's 2025 Pitch Party competition.
 
-Lyric also serves as Executive Producer of the literary nonprofit House of SpeakEasy, where she produces the monthly live storytelling show <i>Seriously Entertaining</i> at Joe's Pub. 
+Lyric also serves as Executive Producer of the literary nonprofit House of SpeakEasy, where she produces the monthly live storytelling show <i>Seriously Entertaining</i> at Joe's Pub, including three collaborations with <i>The New Yorker</i>. 
 
 Previously, Lyric was a producer for the iDeas Lab at the Johns Hopkins Berman Institute of Bioethics, where she produced and project-managed Season 2 of the award-winning podcast <i>playing god?</i>. Other recent projects include producing the first-ever <i>HISTORY This Week</i> live podcast episode at The Tenement Museum and developing <i>The Election Trust Research Podcast</i> for the University of California, San Diego.
 
