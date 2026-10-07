@@ -14,4 +14,4 @@ Lyric spent four years as a full-time staffer at the Freakonomics Radio Network,
 
 Originally from Baltimore, Lyric grew up in Cairo, Egypt (2006-2016) and now lives in Brooklyn, NY. She earned a B.A. in English/French comparative literature and a minor in computer science from Barnard College, where she served as the editor for the Columbia Daily Spectator’s long-form magazine <i>The Eye</i>. 
 
-Get in touch at lyricbowditch[at]gmail[dot]com or connect on <a href="https://www.linkedin.com/in/lyric-bowditch-6b964a161/">LinkedIn</a>.
+Get in touch at lyricbowditch[at]gmail[dot]com or connect on <a href="https://www.linkedin.com/in/lyric-unger-bowditch-6b964a161">LinkedIn</a>.
